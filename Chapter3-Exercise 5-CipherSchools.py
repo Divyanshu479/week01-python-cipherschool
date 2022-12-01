@@ -1,14 +1,18 @@
 #  ask a user for name 
-# Example - Sushant Kumar
+# Example - Divyanshu 
 # print count of each word 
 # output:
-#  S:1
-#  U:2
-#  S:3
-#  H:4
-#  A:5
+#  D:1
+#  i:2
+#  v:3
+#  y:4
+#  a:5
 #  N:6
-#  T:7
+#  s:7
+#  h:8
+#  u:9
+
+
 
 # Using count through while loop
 
